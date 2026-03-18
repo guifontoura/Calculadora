@@ -1,4 +1,4 @@
-# 🧮 Calculadora-linux
+# 🧮 Calculadora
 
 Este projeto consiste em uma calculadora funcional desenvolvida em **Python** e integrada ao ambiente **Linux** via Shell Script.
 
